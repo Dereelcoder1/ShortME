@@ -27,7 +27,7 @@ ShortMe is a modern, high-performance URL shortener designed to transform long, 
 ### Installation
 1. **Clone the repo:**
    
-   git clone github.com/Dereelcoder1/Shortme
+   git clone https://github.com/Dereelcoder1/ShortME.git
    cd shortme
 Use code with caution.
 
